@@ -6,13 +6,4 @@ public class GameController {
 	{
 		System.out.println("Hello World!");
 	}
-	//test -from zaniken
-	//test 2
-	//test 3
-	//test 4 upstream?
-
-	//test 5
-
-	//test 6
-
 }
